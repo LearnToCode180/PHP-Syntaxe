@@ -18,7 +18,7 @@
 
 		// $num2 = 2;
 
-		// $num3 = $num ** $num2;
+		// $num3 = $num ** $num2; // Pour calculer la puissance càd $num à la puissance de $num2
 
 		// define('maConstante','Bonjour');
 
