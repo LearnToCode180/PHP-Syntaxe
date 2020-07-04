@@ -1,4 +1,4 @@
-<?php declare(strict_types=1); //Pour faire la difference entre les types des parametres ?>
+<?php declare(strict_types=1); //Pour faire la difference entre les types des parametres des fonctions ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
