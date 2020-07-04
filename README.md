@@ -8,4 +8,4 @@ Dans ce fichier PHP, vous allez trouver tout ce qu'il faut savoir sur le syntaxe
 5. Les tableaux.
 6. Les conditions.
 7. Les boucles.
-8. Les fontions
+8. Les fonctions
