@@ -1,6 +1,6 @@
 # PHP-Syntaxe
 Dans ce fichier PHP, vous allez trouver tout ce qu'il faut savoir sur le syntaxe du Langage PHP.
-##Comme par exemple:
+## Comme par exemple:
 1. Affichage (Output).
 2. Declaration des variables.
 3. Nouvelles operations arithmetiques.
